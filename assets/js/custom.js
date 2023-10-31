@@ -1,6 +1,6 @@
 // Task 1
 let btn = document.getElementById('check');
-let number = 100;
+let number = 101;
 let counter = 0;
 let randomNumber = Math.floor(Math.random() * number);
 
